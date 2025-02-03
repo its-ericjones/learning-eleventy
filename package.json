@@ -4,7 +4,7 @@
   "description": "Repo for keeping track while learning Eleventy static site generator by following along with their official tutorial - [Learn Eleventy](https://learn-eleventy.pages.dev)",
   "main": ".eleventy.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx eleventy --serve"
   },
   "keywords": [],
   "author": "",
